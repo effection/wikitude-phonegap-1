@@ -1,0 +1,5 @@
+INDEX VERSION 1.122+/Users/mobilizy/wikitude-phonegap/samples/platforms/android/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1029423721.index
+3396174118.index
+3528451137.index
+123284436.index
